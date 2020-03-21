@@ -14,7 +14,8 @@
        2. Frontend.
        
 ### Courses:
-       1. [placeholder]
-       2. [placeholder]
-       3. [placeholder]
+       1. HTML
+       2. CSS
+       3. JavaScript
+       4. UI/UX
       
