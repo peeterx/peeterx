@@ -20,6 +20,3 @@
        3. JavaScript
        4. UI / UX
       
-# peeterx
-Git Tasks
-
